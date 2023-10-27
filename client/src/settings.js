@@ -9,11 +9,11 @@ const resources = {
 
 const sounds = {
   shared: {
-    volume: 0.5,
+    volume: 0.9,
   },
   players: {
     click: {
-      sound: { src: ["/sound/click.mp3"] },
+      sound: { src: ["/sound/oooo.mp3"] },
       settings: { oneAtATime: true }
     },
     typing: {
